@@ -1,5 +1,5 @@
 {
-    "name": "leafo/scssphp",
+    "name": "ochnygosch/scssphp",
     "type": "library",
     "description": "scssphp is a compiler for SCSS written in PHP.",
     "keywords": ["css", "stylesheet", "scss", "sass", "less"],
